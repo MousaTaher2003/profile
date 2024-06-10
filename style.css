@@ -1,0 +1,31 @@
+.section1{
+    background-color: rgb(170, 238, 238);
+}
+#names{
+    color:teal;
+    font-size: 70px;
+    font-weight: bold; 
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#pars1{
+    color:teal;
+    font-size: 30px;
+    font-weight: bold; 
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#imgs{
+    width: 500px;
+    height: 300px;
+    border-radius: 15%;
+}
+
+#imgMousa{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+#hsec2{   
+    color:teal;
+}
